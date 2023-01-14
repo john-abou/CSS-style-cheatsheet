@@ -8,7 +8,7 @@ My motivation for creating this CSS cheatsheet was to test my newly learned CSS 
 I learned that I have a lot more to learn and I plan to keep this CSS page up to date if I learn something new and i'd like to have an easily accesible piece of code. 
 <br>
 ## Deployment
-* <a href="https://github.com/john-abou/CSS-style-cheatsheet">Webpage link</a>
+* <a href="https://john-abou.github.io/CSS-style-cheatsheet">Webpage link</a>
 
 <br>
 
